@@ -1,0 +1,3 @@
+# Virtual-Assistant
+In the run file, kindly look at the comments. Follow the comments before using the code.
+Also in def backend(), change the paths as per your requirement...
