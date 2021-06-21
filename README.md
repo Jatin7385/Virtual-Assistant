@@ -8,6 +8,7 @@
 * Playing videos on youtube
 * Searching on Google
 * Performs basic tasks such as greeting and wishing the user. It can tell the date/time when asked.
+and more ....
 ### All of the tasks are performed using voice commands.
 ##Before Running the file
 In the run file, kindly look at the comments. Follow the comments before using the code.
